@@ -9,7 +9,7 @@ const products = [
     "old": 1500,
     "tag": "Offer",
     "sizes": "Confirm on WhatsApp",
-    "img": "images/catalog/kanchi-cotton-coffee-brown.jpeg",
+    "img": "kanchi-cotton-coffee-brown.jpeg",
     "supplied": true
   },
   {
@@ -21,7 +21,7 @@ const products = [
     "old": 1049,
     "tag": "Trending",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-kurtis.webp"
+    "img": "women-kurtis.webp"
   },
   {
     "cat": "Women",
@@ -32,7 +32,7 @@ const products = [
     "old": 1399,
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-churidars.webp"
+    "img": "women-churidars.webp"
   },
   {
     "cat": "Women",
@@ -43,7 +43,7 @@ const products = [
     "old": 1399,
     "tag": "Best Seller",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-salwar-suits.webp"
+    "img": "women-salwar-suits.webp"
   },
   {
     "cat": "Women",
@@ -54,7 +54,7 @@ const products = [
     "old": 1499,
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-anarkali-dresses.webp"
+    "img": "women-anarkali-dresses.webp"
   },
   {
     "cat": "Women",
@@ -65,7 +65,7 @@ const products = [
     "old": 1799,
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-gowns.webp"
+    "img": "women-gowns.webp"
   },
   {
     "cat": "Women",
@@ -76,7 +76,7 @@ const products = [
     "old": 899,
     "tag": "Trending",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-tops.webp"
+    "img": "women-tops.webp"
   },
   {
     "cat": "Women",
@@ -87,7 +87,7 @@ const products = [
     "old": 699,
     "tag": "Offer",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-leggings.webp"
+    "img": "women-leggings.webp"
   },
   {
     "cat": "Women",
@@ -98,7 +98,7 @@ const products = [
     "old": 999,
     "tag": "Offer",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-nightwear.webp"
+    "img": "women-nightwear.webp"
   },
   {
     "cat": "Women",
@@ -109,7 +109,7 @@ const products = [
     "old": 1149,
     "tag": "Trending",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-casual-wear.webp"
+    "img": "women-casual-wear.webp"
   },
   {
     "cat": "Women",
@@ -120,7 +120,7 @@ const products = [
     "old": 1899,
     "tag": "Offer",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-party-wear.webp"
+    "img": "women-party-wear.webp"
   },
   {
     "cat": "Women",
@@ -131,7 +131,7 @@ const products = [
     "old": 1699,
     "tag": "Festival",
     "sizes": "S, M, L, XL",
-    "img": "images/catalog/women-ethnic-wear.webp"
+    "img": "women-ethnic-wear.webp"
   },
   {
     "cat": "Girls",
@@ -142,7 +142,7 @@ const products = [
     "old": 899,
     "tag": "New Arrivals",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-frocks.webp"
+    "img": "girls-frocks.webp"
   },
   {
     "cat": "Girls",
@@ -153,7 +153,7 @@ const products = [
     "old": 1199,
     "tag": "Offer",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-party-frocks.webp"
+    "img": "girls-party-frocks.webp"
   },
   {
     "cat": "Girls",
@@ -164,7 +164,7 @@ const products = [
     "old": 1399,
     "tag": "Festival",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-traditional-dresses.webp"
+    "img": "girls-traditional-dresses.webp"
   },
   {
     "cat": "Girls",
@@ -175,7 +175,7 @@ const products = [
     "old": 1299,
     "tag": "Festival",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-lehenga-choli.webp"
+    "img": "girls-lehenga-choli.webp"
   },
   {
     "cat": "Girls",
@@ -186,7 +186,7 @@ const products = [
     "old": 1599,
     "tag": "Festival",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-pattu-pavadai.webp"
+    "img": "girls-pattu-pavadai.webp"
   },
   {
     "cat": "Girls",
@@ -197,7 +197,7 @@ const products = [
     "old": 1499,
     "tag": "Best Seller",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-gowns.webp"
+    "img": "girls-gowns.webp"
   },
   {
     "cat": "Girls",
@@ -208,7 +208,7 @@ const products = [
     "old": 999,
     "tag": "Trending",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-tops-bottom-sets.webp"
+    "img": "girls-tops-bottom-sets.webp"
   },
   {
     "cat": "Girls",
@@ -219,7 +219,7 @@ const products = [
     "old": 899,
     "tag": "New Arrivals",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-casual-dresses.webp"
+    "img": "girls-casual-dresses.webp"
   },
   {
     "cat": "Girls",
@@ -230,6 +230,6 @@ const products = [
     "old": 1399,
     "tag": "Festival",
     "sizes": "2–10 Years",
-    "img": "images/catalog/girls-festive-dresses.webp"
+    "img": "girls-festive-dresses.webp"
   }
 ];

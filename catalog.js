@@ -1,5 +1,5 @@
 const slug=s=>s.toLowerCase().replace(/&/g,'').replace(/\s+/g,'-');
-const wa=(name='a dress from your collection')=>'https://wa.me/919876543211?text='+encodeURIComponent(`Hi JMS Textiles, I am interested in ${name}. Please share availability, sizes and ordering details.`);
+const wa=(name='a dress from your collection')=>'https://wa.me/919043557183?text='+encodeURIComponent(`Hi JMS Textiles, I am interested in ${name}. Please share availability, sizes and ordering details.`);
 document.querySelectorAll('[data-wa]').forEach(a=>{a.href=wa(a.dataset.wa==='general'?undefined:a.dataset.wa);a.target='_blank';a.rel='noopener'});
 document.querySelectorAll('.chips').forEach(box=>{
  box.innerHTML=products.filter((p,i,list)=>p.cat===box.dataset.group&&list.findIndex(x=>x.cat===p.cat&&x.type===p.type)===i).map(p=>`<button class="category-choice" data-product="${p.id}" aria-pressed="false"><img src="${p.img}" alt="${p.supplied?p.name:`Sample ${p.type}`}" loading="lazy" width="80" height="100"><span>${p.type}</span></button>`).join('');
