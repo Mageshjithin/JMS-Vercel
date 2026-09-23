@@ -12,6 +12,30 @@ const products = [
     "img": "kanchi-cotton-coffee-brown.jpeg",
     "supplied": true
   },
+   {
+    "cat": "Women",
+    "type": "Sarees",
+    "id": "women-sarees",
+    "name": "Kanchi Cotton Saree",
+    "price": 1100,
+    "old": 1500,
+    "tag": "Offer",
+    "sizes": "Confirm on WhatsApp",
+    "img": "download (1).webp",
+    "supplied": true
+  },
+  {
+    "cat": "Women",
+    "type": "Sarees",
+    "id": "women-sarees",
+    "name": "Kanchi Cotton Saree",
+    "price": 1100,
+    "old": 1500,
+    "tag": "Offer",
+    "sizes": "Confirm on WhatsApp",
+    "img": "download.webp",
+    "supplied": true
+  },
   {
     "cat": "Women",
     "type": "Kurtis",
