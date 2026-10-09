@@ -5,8 +5,7 @@ const products = [
     "type": "Sarees",
     "id": "women-sarees",
     "name": "Kanchi Cotton Saree – Coffee Brown",
-    "price": 1100,
-    "old": 1500,
+    
     "tag": "Offer",
     "sizes": "Confirm on WhatsApp",
     "img": "kanchi-cotton-coffee-brown.jpeg",
@@ -35,8 +34,7 @@ const products = [
     "type": "Kurtis",
     "id": "women-kurtis",
     "name": "Noor Embroidered Kurti",
-    "price": 749,
-    "old": 1049,
+    
     "tag": "Trending",
     "sizes": "S, M, L, XL",
     "img": "women-kurtis.webp"
@@ -46,8 +44,7 @@ const products = [
     "type": "Churidars",
     "id": "women-churidars",
     "name": "Jasmine Churidar Set",
-    "price": 1099,
-    "old": 1399,
+    
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
     "img": "women-churidars.webp"
@@ -57,8 +54,7 @@ const products = [
     "type": "Salwar Suits",
     "id": "women-salwar-suits",
     "name": "Vanya Ethnic Salwar Set",
-    "price": 1099,
-    "old": 1399,
+    
     "tag": "Best Seller",
     "sizes": "S, M, L, XL",
     "img": "women-salwar-suits.webp"
@@ -77,8 +73,7 @@ const products = [
     "type": "Gowns",
     "id": "women-gowns",
     "name": "Ira Evening Gown",
-    "price": 1499,
-    "old": 1799,
+  
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
     "img": "women-gowns.webp"
@@ -88,8 +83,7 @@ const products = [
     "type": "Tops",
     "id": "women-tops",
     "name": "Everyday Cotton Top",
-    "price": 599,
-    "old": 899,
+    
     "tag": "Trending",
     "sizes": "S, M, L, XL",
     "img": "women-tops.webp"
@@ -99,8 +93,7 @@ const products = [
     "type": "Leggings",
     "id": "women-leggings",
     "name": "Essential Stretch Leggings",
-    "price": 399,
-    "old": 699,
+   
     "tag": "Offer",
     "sizes": "S, M, L, XL",
     "img": "women-leggings.webp"
@@ -110,8 +103,7 @@ const products = [
     "type": "Nightwear",
     "id": "women-nightwear",
     "name": "Cloud Cotton Nightwear Set",
-    "price": 699,
-    "old": 999,
+    
     "tag": "Offer",
     "sizes": "S, M, L, XL",
     "img": "women-nightwear.webp"
@@ -139,101 +131,100 @@ const products = [
     "type": "Ethnic Wear",
     "id": "women-ethnic-wear",
     "name": "Heritage Ethnic Set",
-    "price": 1399,
-    "old": 1699,
+    
     "tag": "Festival",
     "sizes": "S, M, L, XL",
     "img": "women-ethnic-wear.webp"
   },
-  {
-    "cat": "Girls",
-    "type": "Frocks",
-    "id": "girls-frocks",
-    "name": "Daisy Cotton Frock",
-    "tag": "New Arrivals",
-    "sizes": "2–10 Years",
-    "img": "girls-frocks.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Party Frocks",
-    "id": "girls-party-frocks",
-    "name": "Mithra Party Frock",
-    "tag": "Offer",
-    "sizes": "2–10 Years",
-    "img": "girls-party-frocks.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Traditional Dresses",
-    "id": "girls-traditional-dresses",
-    "name": "Little Lotus Traditional Set",
-    "tag": "Festival",
-    "sizes": "2–10 Years",
-    "img": "girls-traditional-dresses.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Lehenga Choli",
-    "id": "girls-lehenga-choli",
-    "name": "Aarna Festive Lehenga",
-    "price": 999,
-    "old": 1299,
-    "tag": "Festival",
-    "sizes": "2–10 Years",
-    "img": "girls-lehenga-choli.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Pattu Pavadai",
-    "id": "girls-pattu-pavadai",
-    "name": "Nila Pattu Pavadai",
-    "price": 1299,
-    "old": 1599,
-    "tag": "Festival",
-    "sizes": "2–10 Years",
-    "img": "girls-pattu-pavadai.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Gowns",
-    "id": "girls-gowns",
-    "name": "Starshine Girls Gown",
-    "price": 1199,
-    "old": 1499,
-    "tag": "Best Seller",
-    "sizes": "2–10 Years",
-    "img": "girls-gowns.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Tops & Bottom Sets",
-    "id": "girls-tops-bottom-sets",
-    "name": "Sunny Day Top & Bottom Set",
-    "price": 699,
-    "old": 999,
-    "tag": "Trending",
-    "sizes": "2–10 Years",
-    "img": "girls-tops-bottom-sets.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Casual Dresses",
-    "id": "girls-casual-dresses",
-    "name": "Playday Cotton Dress",
-    "tag": "New Arrivals",
-    "sizes": "2–10 Years",
-    "img": "girls-casual-dresses.webp"
-  },
-  {
-    "cat": "Girls",
-    "type": "Festive Dresses",
-    "id": "girls-festive-dresses",
-    "name": "Golden Bloom Festive Dress",
-    "tag": "Festival",
-    "sizes": "2–10 Years",
-    "img": "girls-festive-dresses.webp"
-  },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Frocks",
+  //   "id": "girls-frocks",
+  //   "name": "Daisy Cotton Frock",
+  //   "tag": "New Arrivals",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-frocks.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Party Frocks",
+  //   "id": "girls-party-frocks",
+  //   "name": "Mithra Party Frock",
+  //   "tag": "Offer",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-party-frocks.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Traditional Dresses",
+  //   "id": "girls-traditional-dresses",
+  //   "name": "Little Lotus Traditional Set",
+  //   "tag": "Festival",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-traditional-dresses.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Lehenga Choli",
+  //   "id": "girls-lehenga-choli",
+  //   "name": "Aarna Festive Lehenga",
+  //   "price": 999,
+  //   "old": 1299,
+  //   "tag": "Festival",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-lehenga-choli.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Pattu Pavadai",
+  //   "id": "girls-pattu-pavadai",
+  //   "name": "Nila Pattu Pavadai",
+  //   "price": 1299,
+  //   "old": 1599,
+  //   "tag": "Festival",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-pattu-pavadai.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Gowns",
+  //   "id": "girls-gowns",
+  //   "name": "Starshine Girls Gown",
+  //   "price": 1199,
+  //   "old": 1499,
+  //   "tag": "Best Seller",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-gowns.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Tops & Bottom Sets",
+  //   "id": "girls-tops-bottom-sets",
+  //   "name": "Sunny Day Top & Bottom Set",
+  //   "price": 699,
+  //   "old": 999,
+  //   "tag": "Trending",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-tops-bottom-sets.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Casual Dresses",
+  //   "id": "girls-casual-dresses",
+  //   "name": "Playday Cotton Dress",
+  //   "tag": "New Arrivals",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-casual-dresses.webp"
+  // },
+  // {
+  //   "cat": "Girls",
+  //   "type": "Festive Dresses",
+  //   "id": "girls-festive-dresses",
+  //   "name": "Golden Bloom Festive Dress",
+  //   "tag": "Festival",
+  //   "sizes": "2–10 Years",
+  //   "img": "girls-festive-dresses.webp"
+  // },
   {
   "cat": "Women",
   "type": "Salwar Suits",
