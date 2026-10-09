@@ -249,5 +249,17 @@ const products = [
     "tag": "Festival",
     "sizes": "2–10 Years",
     "img": "girls-festive-dresses.webp"
-  }
+  },
+  {
+  cat: "Women",
+  type: "Salwar Suits",
+  id: "sage-green-embroidered-set",
+  name: "Sage Green Embroidered Set",
+  price: 0, // replace with selling price
+  old: 0,   // replace with original price
+  tag: "New Arrival",
+  sizes: "Confirm on WhatsApp",
+  img: "sage-green-embroidered-set.jpg",
+  supplied: true
+}
 ];
