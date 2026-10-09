@@ -251,13 +251,13 @@ const products = [
     "img": "girls-festive-dresses.webp"
   },
   {
-  cat: "Women",
-  type: "Salwar Suits",
-  id: "sage-green-embroidered-set",
-  name: "Sage Green Embroidered Set",
-  tag: "New Arrival",
-  sizes: "Confirm on WhatsApp",
-  img: "sage-green-embroidered-set.jpg",
-  supplied: true
+  "cat": "Women",
+  "type": "Salwar Suits",
+  "id": "sage-green-embroidered-set",
+  "name": "Sage Green Embroidered Set",
+  "tag": "New Arrival",
+  "sizes": "Confirm on WhatsApp",
+  "img": "Sage Green Embroidered Kurti Set.png",
+  "supplied": true
 }
 ];
