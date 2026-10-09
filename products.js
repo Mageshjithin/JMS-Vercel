@@ -141,7 +141,7 @@ const products = [
   "type": "Salwar Suits",
   "id": "sage-green-embroidered-set",
   "name": "Sage Green Embroidered Set",
-  "tag": "New Arrival",
+  "tag": "New Arrivals",
   "sizes": "Confirm on WhatsApp",
   "img": "Sage Green Embroidered Kurti Set.png",
   "supplied": true
