@@ -68,8 +68,6 @@ const products = [
     "type": "Anarkali Dresses",
     "id": "women-anarkali-dresses",
     "name": "Meher Floral Anarkali",
-    "price": 1199,
-    "old": 1499,
     "tag": "New Arrivals",
     "sizes": "S, M, L, XL",
     "img": "women-anarkali-dresses.webp"
@@ -123,8 +121,6 @@ const products = [
     "type": "Casual Wear",
     "id": "women-casual-wear",
     "name": "Weekend Casual Dress",
-    "price": 849,
-    "old": 1149,
     "tag": "Trending",
     "sizes": "S, M, L, XL",
     "img": "women-casual-wear.webp"
@@ -134,8 +130,6 @@ const products = [
     "type": "Party Wear",
     "id": "women-party-wear",
     "name": "Ruby Celebration Dress",
-    "price": 1599,
-    "old": 1899,
     "tag": "Offer",
     "sizes": "S, M, L, XL",
     "img": "women-party-wear.webp"
@@ -156,8 +150,6 @@ const products = [
     "type": "Frocks",
     "id": "girls-frocks",
     "name": "Daisy Cotton Frock",
-    "price": 599,
-    "old": 899,
     "tag": "New Arrivals",
     "sizes": "2–10 Years",
     "img": "girls-frocks.webp"
@@ -167,8 +159,6 @@ const products = [
     "type": "Party Frocks",
     "id": "girls-party-frocks",
     "name": "Mithra Party Frock",
-    "price": 899,
-    "old": 1199,
     "tag": "Offer",
     "sizes": "2–10 Years",
     "img": "girls-party-frocks.webp"
@@ -178,8 +168,6 @@ const products = [
     "type": "Traditional Dresses",
     "id": "girls-traditional-dresses",
     "name": "Little Lotus Traditional Set",
-    "price": 1099,
-    "old": 1399,
     "tag": "Festival",
     "sizes": "2–10 Years",
     "img": "girls-traditional-dresses.webp"
@@ -233,8 +221,6 @@ const products = [
     "type": "Casual Dresses",
     "id": "girls-casual-dresses",
     "name": "Playday Cotton Dress",
-    "price": 599,
-    "old": 899,
     "tag": "New Arrivals",
     "sizes": "2–10 Years",
     "img": "girls-casual-dresses.webp"
@@ -244,8 +230,6 @@ const products = [
     "type": "Festive Dresses",
     "id": "girls-festive-dresses",
     "name": "Golden Bloom Festive Dress",
-    "price": 1099,
-    "old": 1399,
     "tag": "Festival",
     "sizes": "2–10 Years",
     "img": "girls-festive-dresses.webp"
