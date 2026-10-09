@@ -17,6 +17,7 @@ const products = [
     "id": "women-sarees",
     "name": "Kanchi Cotton Saree",
     "sizes": "Confirm on WhatsApp",
+    "tag": "Offer",
     "img": "download (1).webp",
     "supplied": true
   },
@@ -26,6 +27,7 @@ const products = [
     "id": "women-sarees",
     "name": "Kanchi Cotton Saree",
     "sizes": "Confirm on WhatsApp",
+    "tag": "Offer",
     "img": "download.webp",
     "supplied": true
   },
