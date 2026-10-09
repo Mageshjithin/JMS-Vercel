@@ -24,3 +24,4 @@
 .women-card{background-image:url('kanchi-cotton-coffee-brown.jpeg');background-position:center 25%}
 .product-image img[src$="kanchi-cotton-coffee-brown.jpeg"],.dialog-content img[src$="kanchi-cotton-coffee-brown.jpeg"]{object-fit:contain;background:#f3e9dc}
 @media(max-width:900px){.cover-photo{max-height:none}}
+@media(max-width:560px){dialog{max-height:calc(100dvh - 24px);overflow-y:auto}.dialog-content img{height:auto;max-height:55vh;object-fit:contain;background:#f8f5ef}}
